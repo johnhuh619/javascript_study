@@ -1,2 +1,2 @@
 # javascript_study
-# JS 공부 일지 3
+### JS 공부 일지 
